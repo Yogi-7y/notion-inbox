@@ -10,7 +10,11 @@ environment:
 dependencies:
   collection: ^1.18.0
   core:
-    path: ../../packages/core
+    git:
+      url: https://github.com/Yogi-7y/Project-Y.git
+      path: packages/core
+      ref: main
+
   envied: ^0.5.4+1
   flutter:
     sdk: flutter
@@ -19,7 +23,10 @@ dependencies:
   meta: ^1.10.0
 
   network:
-    path: ../../packages/network
+    git:
+      url: https://github.com/Yogi-7y/Project-Y.git
+      path: packages/network
+      ref: main
 
   smart_textfield:
     git:
