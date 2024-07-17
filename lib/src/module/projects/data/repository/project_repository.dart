@@ -1,4 +1,4 @@
-import 'package:network/network.dart';
+import 'package:network_y/network.dart';
 
 import '../../domain/entity/project_entity.dart';
 import '../../domain/repository/project_repository.dart';

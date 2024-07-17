@@ -1,4 +1,4 @@
-import 'package:core/core.dart';
+import 'package:core_y/core.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../../../services/api_service.dart';

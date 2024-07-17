@@ -1,6 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:flutter/services.dart';
-import 'package:network/network.dart';
+import 'package:network_y/network.dart';
 
 import '../../../../core/env/env.dart';
 import '../models/notion_task_entity.dart';

@@ -1,4 +1,4 @@
-import 'package:network/network.dart';
+import 'package:network_y/network.dart';
 
 import '../../../../core/env/env.dart';
 

@@ -1,5 +1,5 @@
-import 'package:core/core.dart';
 import 'package:flutter/foundation.dart';
+import 'package:core_y/src/exceptions/app_exception.dart';
 
 import '../../domain/entity/context_entity.dart';
 

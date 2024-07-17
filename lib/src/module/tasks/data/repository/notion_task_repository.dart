@@ -1,6 +1,6 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
-import 'package:core/core.dart';
-import 'package:network/network.dart';
+import 'package:core_y/core.dart';
+import 'package:network_y/network.dart';
 
 import '../../../../core/env/env.dart';
 import '../../domain/entity/task_entity.dart';
