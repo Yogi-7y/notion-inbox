@@ -1,4 +1,4 @@
-import 'package:core/core.dart';
+import 'package:core_y/core.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:notion_inbox/src/module/projects/data/model/project_model.dart';
 

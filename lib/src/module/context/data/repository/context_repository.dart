@@ -14,7 +14,7 @@ class NotionContextRepository implements ContextRepository {
 
   @override
   AsyncContexts getContexts() async {
-    final _response = await apiClient<Map<String, Object?>>(const NotionContextRequest());
+    final _response = await apiClient.call<Map<String, Object?>>.call(const NotionContextRequest());
 
     return _response.map(
       (data) {

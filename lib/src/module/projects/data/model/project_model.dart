@@ -1,4 +1,4 @@
-import 'package:core/core.dart';
+import 'package:core_y/core.dart';
 import 'package:flutter/material.dart';
 
 import '../../domain/entity/project_entity.dart';
